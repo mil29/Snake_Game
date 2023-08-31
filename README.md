@@ -1,3 +1,5 @@
+# Snake game writen in Python 
+
 <pre>
                                                                                          
                                                                                          
